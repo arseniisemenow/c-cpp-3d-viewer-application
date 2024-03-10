@@ -1,5 +1,9 @@
 ## 3DViewer v1.0 Project Overview
 
+# Team members
+- [theseChains](https://github.com/theseChains)
+- [asya11001](https://github.com/Asya11001)
+
 ### Introduction
 This application, 3DViewer v1.0, is crafted to streamline the visualization of 3D wireframe models. Developed in C language with a dedicated focus on the Qt framework, it follows structured programming and adheres to Google style guidelines, offering a rich set of features for efficient 3D model interaction.
 
